@@ -1,1 +1,1 @@
-logToConsole("Successful")
+print("Successful")
